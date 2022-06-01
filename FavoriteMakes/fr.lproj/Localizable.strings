@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  FavoriteMakes
+
+  Created by Hans Rietmann on 31/05/2022.
+  
+*/
+
+
+
+// MARK: - Errors -
+
+"AppError.genericError.title" = "Erreur";
+"AppError.genericError.message" = "Quelque chose s'est mal passé: %@";
+"AppError.referenceRemovedFromMemory.title" = "Problème de mémoire";
+"AppError.referenceRemovedFromMemory.message" = "L'opération n'a pas pu se terminer car l'objet ayant l'ayant lancé a été retiré de la mémoire.";
+"AppError.invalidOrginalURLLink.title" = "URL incorrecte";
+"AppError.invalidOrginalURLLink.message" = "Impossible de reconnaitre le lien donné comme une URL fonctionnelle. Merci de vérifier le lien entré: '%@'";
+
+
+
+// MARK: - HomeView -
+
+"HomeView.HomeCommercialView.notNowButton" = "Pas maintenant";
+"HomeView.AddFavoriteSuggestion.title" = "Bienvenue sur FavoriteMakes!";
+"HomeView.AddFavoriteSuggestion.message" = "Conservez vos marques préférées dans une simple liste. Commencez par en ajouter quelques unes depuis notre collection.";
+"HomeView.AddFavoriteSuggestion.buttonTitle" = "Ajouter des marques";
+"HomeView.NotificationsSuggestion.title" = "Ne râtez pas les marques ajoutées à notre collection !";
+"HomeView.NotificationsSuggestion.message" = "Vous semblez aimer ajouter vos marques favorites dans l'app. Seriez-vous intéressé de recevoir une notification quand de nouvelles marques sont diponibles dans notre collection ?";
+"HomeView.NotificationsSuggestion.buttonTitle" = "Autoriser les notifications";
+"HomeView.CreateAccountSuggestion.title" = "Astuce : Créez votre compte pour sauvegarder votre liste!";
+"HomeView.CreateAccountSuggestion.message" = "Nous sommes vraiment fier que vous utilisiez régulièrement notre app. Ne perdez pas votre précieuse liste de marque préférées en créant simplement votre compte qui sauvegardera vos données en ligne de manière sécurisé.";
+"HomeView.CreateAccountSuggestion.buttonTitle" = "Se connecter / Créer un compte";
+"HomeView.SubscriptionSuggestion.title" = "Le saviez-vous ?";
+"HomeView.SubscriptionSuggestion.message" = "Nous offrons des fonctionnalités premium qui sont seulement réservées à nos aficionados tel que vous. Aimeriez-vous voir de quoi il s'agit ?";
+"HomeView.SubscriptionSuggestion.buttonTitle" = "Aller voir";

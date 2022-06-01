@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  FavoriteMakes
+
+  Created by Hans Rietmann on 31/05/2022.
+  
+*/
+
+
+
+// MARK: - Errors -
+
+"AppError.genericError.title" = "Error";
+"AppError.genericError.message" = "Something went wrong: %@";
+"AppError.referenceRemovedFromMemory.title" = "Memory error";
+"AppError.referenceRemovedFromMemory.message" = "The operation could not complete because the object it was running has been removed from memory.";
+"AppError.invalidOrginalURLLink.title" = "Invalid URL";
+"AppError.invalidOrginalURLLink.message" = "Unable to recognize the link given as a URL. Please verify the link entered. Link given: '%@'";
+
+
+
+// MARK: - HomeView -
+
+"HomeView.HomeCommercialView.notNowButton" = "Not now";
+"HomeView.AddFavoriteSuggestion.title" = "Welcome to FavoriteMakes!";
+"HomeView.AddFavoriteSuggestion.message" = "Keep track of your favorite makes in one simple list. Start by adding some from our collection.";
+"HomeView.AddFavoriteSuggestion.buttonTitle" = "Add favorite makes";
+"HomeView.NotificationsSuggestion.title" = "Get notified on new makes entering our collection!";
+"HomeView.NotificationsSuggestion.message" = "You seem to like to add your favorite makes in the app. Would you be interested by receiving notifications when publish new ones in our collection?";
+"HomeView.NotificationsSuggestion.buttonTitle" = "Enable notifications";
+"HomeView.CreateAccountSuggestion.title" = "Tip : Create your account to save your list.";
+"HomeView.CreateAccountSuggestion.message" = "We're glad to have you regularly on the app. Don't lose your precious favourite makes list by simply creating an account to store your data safely and privately online.";
+"HomeView.CreateAccountSuggestion.buttonTitle" = "Sign in / Sign up";
+"HomeView.SubscriptionSuggestion.title" = "Did you know?";
+"HomeView.SubscriptionSuggestion.message" = "We have some premium features reserved only for our aficionados like you. Do you want to see what is it all about?";
+"HomeView.SubscriptionSuggestion.buttonTitle" = "Let me see!";
+
+
